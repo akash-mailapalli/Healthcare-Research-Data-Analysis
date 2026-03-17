@@ -1,0 +1,76 @@
+doctor_id,doctor_name,department,experience_years
+1,Dr. Aditi Patel,Oncology,3
+2,Dr. Aditi Reddy,Oncology,15
+3,Dr. Aditya Reddy,Neurology,15
+4,Dr. Aditi Chatterjee,General Medicine,23
+5,Dr. Aarav Kulkarni,General Medicine,3
+6,Dr. Isha Patel,Orthopedics,12
+7,Dr. Priya Patel,Cardiology,15
+8,Dr. Kiran Sharma,Dermatology,10
+9,Dr. Aditi Iyer,Orthopedics,14
+10,Dr. Aarav Rao,Dermatology,6
+11,Dr. Priya Iyer,Neurology,7
+12,Dr. Rahul Rao,Neurology,14
+13,Dr. Arjun Reddy,Dermatology,8
+14,Dr. Rahul Rao,General Medicine,7
+15,Dr. Sai Sharma,Oncology,18
+16,Dr. Sneha Reddy,Dermatology,11
+17,Dr. Kiran Gupta,Pediatrics,5
+18,Dr. Aarav Gupta,Pediatrics,14
+19,Dr. Priya Patel,Neurology,18
+20,Dr. Meera Iyer,General Medicine,7
+21,Dr. Aditi Verma,General Medicine,15
+22,Dr. Arjun Reddy,Dermatology,4
+23,Dr. Sneha Verma,General Medicine,5
+24,Dr. Sai Rao,Pediatrics,13
+25,Dr. Aarav Verma,Cardiology,6
+26,Dr. Aditya Gupta,Pediatrics,4
+27,Dr. Aditya Chatterjee,General Medicine,20
+28,Dr. Sneha Rao,Orthopedics,16
+29,Dr. Rahul Rao,Neurology,8
+30,Dr. Priya Nair,Cardiology,13
+31,Dr. Rohan Verma,Cardiology,23
+32,Dr. Aarav Kulkarni,Cardiology,13
+33,Dr. Rohan Kulkarni,Dermatology,6
+34,Dr. Sneha Patel,Dermatology,18
+35,Dr. Aditi Chatterjee,Cardiology,13
+36,Dr. Diya Reddy,Neurology,21
+37,Dr. Meera Verma,Orthopedics,8
+38,Dr. Aarav Patel,Neurology,18
+39,Dr. Meera Iyer,Orthopedics,18
+40,Dr. Meera Mehta,Cardiology,14
+41,Dr. Rahul Chatterjee,Neurology,13
+42,Dr. Aarav Reddy,Dermatology,15
+43,Dr. Rohan Iyer,Dermatology,17
+44,Dr. Sneha Kulkarni,Orthopedics,9
+45,Dr. Vivaan Sharma,Pediatrics,4
+46,Dr. Kiran Nair,Pediatrics,10
+47,Dr. Ananya Chatterjee,Pediatrics,5
+48,Dr. Rohan Rao,Pediatrics,13
+49,Dr. Priya Reddy,Pediatrics,10
+50,Dr. Rohan Nair,Dermatology,22
+51,Dr. Isha Verma,General Medicine,3
+52,Dr. Isha Sharma,Neurology,6
+53,Dr. Aditi Verma,Pediatrics,7
+54,Dr. Rahul Sharma,Pediatrics,6
+55,Dr. Rahul Verma,Pediatrics,18
+56,Dr. Sai Kulkarni,Dermatology,11
+57,Dr. Aditya Iyer,Neurology,8
+58,Dr. Aarav Gupta,Oncology,8
+59,Dr. Isha Patel,Neurology,23
+60,Dr. Aditi Iyer,Cardiology,21
+61,Dr. Kiran Nair,Orthopedics,8
+62,Dr. Aarav Sharma,Pediatrics,4
+63,Dr. Kiran Patel,Neurology,10
+64,Dr. Ananya Gupta,Cardiology,20
+65,Dr. Ananya Rao,Neurology,21
+66,Dr. Sneha Gupta,General Medicine,21
+67,Dr. Ananya Sharma,Cardiology,5
+68,Dr. Rahul Iyer,General Medicine,10
+69,Dr. Rohan Gupta,Cardiology,7
+70,Dr. Sneha Gupta,Orthopedics,11
+71,Dr. Aarav Verma,General Medicine,12
+72,Dr. Sai Kulkarni,Neurology,7
+73,Dr. Kiran Verma,General Medicine,14
+74,Dr. Aarav Patel,Dermatology,4
+75,Dr. Ananya Kulkarni,Cardiology,16
