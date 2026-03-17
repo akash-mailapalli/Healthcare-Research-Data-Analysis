@@ -1,6 +1,6 @@
 # Healthcare Research & Data Analysis – Medinova Health Analytics
 
-https://github.com/akash-mailapalli/Healthcare-Research-Data-Analysis
+[View Project](https://github.com/akash-mailapalli/Healthcare-Research-Data-Analysis)
 
 ## Project Overview
 
